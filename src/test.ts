@@ -1,3 +1,3 @@
-import GetGoogleLinks from "./index";
+import GoogleProductScrapper from "./index";
 
-GetGoogleLinks({ searches: `crawlora\nscaletech` });
+GoogleProductScrapper({ searches: `apple\nslider` });
